@@ -31,8 +31,9 @@ A modern and efficient web-based platform that streamlines the process of bookin
 
 | Layer              | Technology                   |
 | ------------------ | ---------------------------- |
-| **Frontend**       | React.js / HTML / CSS / JS   |
+| **Frontend**       | React.js / HTML / CSS / JS 
+                        / TypeScript                |
 | **Backend**        | Node.js / Express.js         |
-| **Database**       | MongoDB / MySQL (choose one) |
-| **Authentication** | JWT / bcrypt                 |
-| **Deployment**     | Render / Vercel / Heroku     |
+| **Database**       | MongoDB                      |
+
+
